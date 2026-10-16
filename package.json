@@ -1,0 +1,12 @@
+{
+  "name": "patrickataide-tests-cucumber-bdd",
+  "version": "1.0.0",
+  "description": "Testes BDD com Gherkin e Cucumber para patrickataide.com.br",
+  "scripts": {
+    "test": "cucumber-js"
+  },
+  "devDependencies": {
+    "@cucumber/cucumber": "^11.0.1",
+    "@playwright/test": "^1.48.0"
+  }
+}
